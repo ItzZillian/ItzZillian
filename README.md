@@ -19,7 +19,7 @@
 
 <h3 align="center"><img src="https://em-content.zobj.net/source/noto-emoji-animations/344/fire_1f525.gif" width="40"> Streak stats</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItzZillian&theme=city-lights)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ItzZillian&theme=city-lights)](https://git.io/streak-stats)
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
